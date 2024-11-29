@@ -32,6 +32,14 @@ Karabulut Motors is a comprehensive application for vehicle sales and repair/mai
 - **React Redux Toolkit**: For state management and handling data flow across components.
 - **localStorage**: To persist user data such as bookings, service requests, and contact information.
 
+## 📸 You can view the application's screenshots below.
+![1](image/home1.png)
+![2](image/home2.png)
+![3](image/Appointment1.png)
+![4](image/Appointment2.png)
+![5](image/Service.png)
+
+
 ## 🚀 How to Run the Project
 1. Extract the file from the ZIP archive.
 
