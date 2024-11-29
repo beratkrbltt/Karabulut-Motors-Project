@@ -46,7 +46,7 @@ Karabulut Motors is a comprehensive application for vehicle sales and repair/mai
 
 2. Navigate to the project directory:
    ```bash
-   cd K-motors
+   cd K-Motors
    ```
 
 3. Install dependencies:
