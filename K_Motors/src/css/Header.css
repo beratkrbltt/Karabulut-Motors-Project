@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: linear-gradient(to right, #000000, #8b0000);
+    /* Kırmızıdan siyaha geçişli arka plan */
+    color: white;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    object-fit: cover;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease-out;
+    margin-right: 10px;
+}
+
+.brand-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    margin: 0 15px;
+}
+
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav ul li a:hover {
+    text-decoration: underline;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger .line {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 3px 0;
+}
+
+/* Mobil görünüm */
+@media (max-width: 768px) {
+    .nav {
+        display: none;
+        flex-direction: column;
+        background: linear-gradient(to right, #000000, #8b0000);
+        position: absolute;
+        top: 75px;
+        right: 20px;
+        border-radius: 5px;
+        padding: 10px;
+    }
+
+    .nav.open {
+        display: flex;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .brand-name {
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
