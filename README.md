@@ -56,7 +56,7 @@ Karabulut Motors is a comprehensive application for vehicle sales and repair/mai
 
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 Feel free to reach out if you have any questions or feedback regarding the project. Thank you for checking out Karabulut Motors! 🚗💨
