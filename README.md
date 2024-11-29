@@ -33,11 +33,11 @@ Karabulut Motors is a comprehensive application for vehicle sales and repair/mai
 - **localStorage**: To persist user data such as bookings, service requests, and contact information.
 
 ## 📸 You can view the application's screenshots below.
-![1](image/home1.png)
-![2](image/home2.png)
-![3](image/Appointment1.png)
-![4](image/Appointment2.png)
-![5](image/Service.png)
+![1](İmage/home1.png)
+![2](İmage/home2.png)
+![3](İmage/Appointment1.png)
+![4](İmage/Appointment2.png)
+![5](İmage/Service.png)
 
 
 ## 🚀 How to Run the Project
