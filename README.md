@@ -7,6 +7,7 @@ Karabulut Motors is a comprehensive application for vehicle sales and repair/mai
    - 🖼️ Each card showcases the car's image, model, and price on the front.
    - 🔄 Flip the card to view detailed information on the back.
    - 📅 The back side includes a **Book Appointment** button, leading to a detailed booking page.
+   - 📱 Fully responsive design, compatible with computer, tablet, and various phone screen sizes.
 
 ### 2. **Booking Appointment Page**
    - 🚘 Displays the selected car's image and model.
