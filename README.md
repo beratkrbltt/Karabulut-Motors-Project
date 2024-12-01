@@ -3,7 +3,7 @@
 Karabulut Motors is a comprehensive application for vehicle sales and repair/maintenance services, built using React and React Redux Toolkit. The project demonstrates a clean and dynamic UI with interactive features for exploring car options, purchasing vehicles, and scheduling repair and maintenance services.
 ## ✨ Features
 
-### 1. **Homepage with Rotating Car Cards**
+### 1. **Homepage with Rotating Car Cards** 
    - 🖼️ Each card showcases the car's image, model, and price on the front.
    - 🔄 Flip the card to view detailed information on the back.
    - 📅 The back side includes a **Book Appointment** button, leading to a detailed booking page.
